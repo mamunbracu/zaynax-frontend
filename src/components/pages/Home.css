@@ -1,0 +1,43 @@
+
+
+.bottom-nab{
+    display: flex;
+    margin-left: 80px;
+}
+.bottom-nab h6{
+    margin-top: 15px;
+    margin-right: 40px;
+}
+.bottom-nab select{
+    outline: none;
+    border: none;
+}
+.bottom-nab h6 strong{
+    margin-right: 15px;
+}
+.refine-by{
+    border-right: 2px solid grey;
+    margin-left: 10px;
+
+}
+.refine-by span{
+    margin-left: 10px;
+
+}
+
+.search-input{
+    margin-left: 325px;
+}
+
+.content-other{
+    display: flex;
+}
+.sidebar-wrap{
+/* width: 20%; */
+}
+
+.main-content-wrap{
+    margin-left: 40px;
+    margin-right: 20px;
+    /* width: 80%; */
+}

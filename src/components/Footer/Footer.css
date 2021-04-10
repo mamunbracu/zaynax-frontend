@@ -1,0 +1,31 @@
+
+
+.img-container img{
+    height: 70px;
+    width: 100px;
+}
+ input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid gray;
+    width: 90%;
+}
+.social img{
+    margin-right: 18px;
+    margin-left: 37px;
+}
+.content{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.payment{
+    display: flex;
+}
+.payment .card{
+    margin-right: 6px;
+}
+.payment img{
+     /* height: 59PX;
+    width: 55PX; */
+    
+}
